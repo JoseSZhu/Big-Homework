@@ -1,4 +1,4 @@
-Hello,look here.
+#Hello,look here.
 What I'd like to introduce is the program of face recognition.
 Its function is to recognize the face and show the identity of a person.
 Now,how to use it is as follows:

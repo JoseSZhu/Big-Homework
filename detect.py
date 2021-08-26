@@ -72,7 +72,7 @@ if __name__ == "__main__":
     face_detector = mtcnn.MTCNN()
     encoding_dict = load_pickle(encodings_path)
     
-    cap = cv2.VideoCapture('input.mp4')
+    cap = cv2.VideoCapture(0)
 
     while cap.isOpened():
         ret, frame = cap.read()

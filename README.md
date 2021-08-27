@@ -14,10 +14,10 @@ What you have to do is just above.
 
 It's just easy .Whis you a good luck.
 
-祝之森 王楷清：项目选题、代码寻找、代码优化
+祝之森 王楷清：项目选题、代码优化
 
 王泽宇、王一鸣：汇报答辩、代码注释
 
-何敬云：PPT制作、报告撰写
+何敬云：PPT制作、报告撰写、代码寻找
 
 Github库建立：祝之森 代码提交：祝之森、王楷清、王泽宇、王一鸣、何敬云

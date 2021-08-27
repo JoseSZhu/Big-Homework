@@ -1,5 +1,5 @@
-# 2021招商证券人工只能训练营
-# 小组成员：校交1901 祝之森U201915956 何敬云U201911256 王一鸣U201912603 王泽宇 王楷清U201911120
+# 2021招商证券人工智能训练营
+# 小组成员：校交1901 祝之森U201915956 何敬云U201911256 王一鸣U201912603 王泽宇U201915467 王楷清U201911120
 from tensorflow.keras.layers import Conv2D, Activation, Input, Add, MaxPooling2D, Flatten, Dense, Dropout, BatchNormalization, Concatenate, Lambda, add, GlobalAveragePooling2D, Convolution2D, LocallyConnected2D, ZeroPadding2D, concatenate, AveragePooling2D
 from tensorflow.keras.models import Model, Sequential
 from tensorflow.keras import backend as K
